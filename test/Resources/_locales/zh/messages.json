@@ -1,0 +1,10 @@
+{
+    "extension_name": {
+        "message": "test中文名",
+        "description": "The display name for the extension."
+    },
+    "extension_description": {
+        "message": "test 描述中文",
+        "description": "Description of what the extension does."
+    }
+}
